@@ -1,5 +1,5 @@
 html, body {
-    font-size: large;
+    font-size: largefit;
     margin: 0;
 }
 body {
@@ -35,9 +35,6 @@ table tbody tr:hover td{
 }
 
 
-
-
-
 .wrapper {
     width: 1200px;
     display: flex;
@@ -71,6 +68,20 @@ table tbody tr:hover td{
     background-color: rgb(255, 240, 226);
     min-height: 300px;
     padding: 20px;
+}
+.content_contact{
+    color: #231f1c;
+    background-color: rgb(255, 240, 226);
+    min-height: 300px;
+    padding: 20px;
+    text-align: center;}
+
+.content_contact h3{
+        background-color: bisque;
+}
+
+.content_contact p{
+    
 }
 .content_about{
       
